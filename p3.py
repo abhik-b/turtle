@@ -1,5 +1,5 @@
 import turtle
-import math
+import math,os
 os.system("cls")
 print('''
      /\           
