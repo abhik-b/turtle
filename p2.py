@@ -1,4 +1,12 @@
-import turtle
+import turtle,os
+os.system("cls")
+print('''
+     /\           
+    /__\  |) |_| | |/
+   /    \ |) | | | |\ 
+                  
+
+''')
 # sunflower
 ab=turtle.Turtle()
 ab.color("red","yellow")

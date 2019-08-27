@@ -1,5 +1,13 @@
 from turtle import *
-import math
+import math,os
+os.system("cls")
+print('''
+     /\           
+    /__\  |) |_| | |/
+   /    \ |) | | | |\ 
+                  
+
+''')
 color('red', 'yellow')
 # begin_fill()
 # while True:
